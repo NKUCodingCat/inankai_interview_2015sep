@@ -1,0 +1,4 @@
+#perl 5, version 14, subversion 2 (v5.14.2) built for MSWin32-x86-multi-thread
+#Author: NKUCodingCat<admin@nkucodingcat.com>
+#Code Generate by http://namazu.org/~takesako/ppencode/demo.html
+length q closedir vec and print chr ord uc q oct do and print chr ord q xor x and print chr ord qw q dump q and print chr ord q ne sin and print chr ord q q q and print chr ord uc q ne sin and print chr ord qw q no q and print chr ord q lc eval and print chr ord q or no and print chr ord q my alarm and print chr ord q open do and print chr ord q stat s and print chr ord q ge log and print chr ord qw q die q 
