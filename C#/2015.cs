@@ -12,7 +12,7 @@ namespace 2015
         static Func<T1, TResult> Make<T1, TResult>(SelfApplicable<T1, TResult> self){ return (x) => self(self, x);}
         static void Main(string[] args)
         {
-            System.Console.WriteLine((Make<long, String>((__, ___) => (___ > 0) ? ((char)(___ % 256) + __(__, ___ >> (0x10 >> 1))) : ""))(0x6176614a20746f4e));
+            System.Console.WriteLine((Make<long, String>((__, ___) => (___ > 0) ? ((char)(___ % 256) + __(__, ___ >> (0x10 >> 1))) : "")) (0x6176614a20746f4e));
         }
     }
 }
