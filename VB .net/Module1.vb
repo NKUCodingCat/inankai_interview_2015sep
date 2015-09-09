@@ -1,7 +1,7 @@
 
 '	Microsoft Visual Studio Ultimate 2012 
 '	Version 11.0.61030.00 Update 4
-'	Author: hjy-sky<871683984@qq.com>
+'	Author: NKUCodingCat<admin@nkucodingcat.com>
 
 Module Module1
     Function Mul(ByRef ____ As Integer, ByRef ___ As Integer, ByRef __ As Integer) As Integer
